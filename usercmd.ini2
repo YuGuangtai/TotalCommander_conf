@@ -1,0 +1,9 @@
+[em_extDir]
+button=%COMMANDER_PATH%\extDir\extDir.exe
+cmd=%COMMANDER_PATH%\extDir\extDir.exe
+path=%COMMANDER_PATH%\extDir\
+
+[em_extDirEnter]
+button=
+cmd=cd
+
